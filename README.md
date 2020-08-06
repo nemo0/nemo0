@@ -6,8 +6,8 @@
 👨🏽‍🏫 Love to teach childrens who don't know anything about Computers.
 
 🤗 Pronouns: He, His
-<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
-"/>
+
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 <!--
 **nemo0/nemo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
