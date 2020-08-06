@@ -6,7 +6,7 @@
 👨🏽‍🏫 Love to teach childrens who don't know anything about Computers.
 
 🤗 Pronouns: He, His
-https://simpleicons.org/icons/javascript.svg?&style=for-the-badge&logo=javascript&logoColor=black
+<img src="https://simpleicons.org/icons/javascript.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
 <!--
 **nemo0/nemo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
