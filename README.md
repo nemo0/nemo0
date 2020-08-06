@@ -11,6 +11,11 @@
 
 ### Blog Posts
 <!-- HASHNODE:START -->
+- [A Beginner's Guide to the JavaScript Fetch API 🦀](https://blog.nemotivity.xyz/a-beginners-guide-to-the-javascript-fetch-api-ckdj473z101cvzzs1dt0j89bz)
+- [An Introduction to JavaScript Callbacks ⚔](https://blog.nemotivity.xyz/an-introduction-to-javascript-callbacks-ckdcmybdx03qu66s1eh06a991)
+- [Object Destructuring in JavaScript for Beginners](https://blog.nemotivity.xyz/object-destructuring-in-javascript-for-beginners-ckd901fae00n5qus1ebko8j2r)
+- [The "delete" in JavaScript](https://blog.nemotivity.xyz/the-delete-in-javascript-ckd19vemk001l2ls1afzz3lzn)
+- [Let's Talk 'Scopes' in JavaScript](https://blog.nemotivity.xyz/lets-talk-scopes-in-javascript-ckcytt3m1002k41s18q5249jy)
 <!-- HASHNODE:END -->
 
 <!--
