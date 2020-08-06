@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi! I am Subha 👋🏽
+🎨 I am a passionate learner who finds fun to code. I love to explore latest web technologies.
+👔 JavaScript is 💝. Backend is 🌟. 
+⚡ Currently learning React.
+👓 Next in list is to work more in UI. 😁
+👨🏽‍🏫 Love to teach childrens who don't know anything about Computers.
 
+🤗 Pronouns: He, His
+https://simpleicons.org/icons/javascript.svg?&style=for-the-badge&logo=javascript&logoColor=black
 <!--
 **nemo0/nemo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
