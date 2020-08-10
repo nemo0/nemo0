@@ -11,7 +11,7 @@
 
 ### Blog Posts
 <!-- HASHNODE:START -->
-- [My Favorite VS Code Extensions 🚀](https://blog.nemotivity.xyz/my-favorite-vs-code-extensions-ckdmrlewb05tfz2s17kojco11)
+- [Our Favourite VS Code Extensions! 🚀](https://blog.nemotivity.xyz/our-favourite-vs-code-extensions-ckdmrlewb05tfz2s17kojco11)
 - [A Beginner's Guide to the JavaScript Fetch API 🦀](https://blog.nemotivity.xyz/a-beginners-guide-to-the-javascript-fetch-api-ckdj473z101cvzzs1dt0j89bz)
 - [An Introduction to JavaScript Callbacks ⚔](https://blog.nemotivity.xyz/an-introduction-to-javascript-callbacks-ckdcmybdx03qu66s1eh06a991)
 - [Object Destructuring in JavaScript for Beginners](https://blog.nemotivity.xyz/object-destructuring-in-javascript-for-beginners-ckd901fae00n5qus1ebko8j2r)
