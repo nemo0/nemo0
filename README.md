@@ -11,11 +11,11 @@
 
 ### Blog Posts
 <!-- HASHNODE:START -->
+- [Why You Should Take the #2Articles1Week Challenge](https://blog.nemotivity.xyz/why-you-should-take-the-2articles1week-challenge-ckecu05sv00ga5ts16gwugzuy)
 - [Let's talk about Math.ceil, Math.floor, and Math.round 🌿](https://blog.nemotivity.xyz/lets-talk-about-mathceil-mathfloor-and-mathround-cke5vz93f013r9ds14gri50db)
 - [Our Favourite VS Code Extensions! 🚀](https://blog.nemotivity.xyz/our-favourite-vs-code-extensions-ckdmrlewb05tfz2s17kojco11)
 - [A Beginner's Guide to the JavaScript Fetch API 🦀](https://blog.nemotivity.xyz/a-beginners-guide-to-the-javascript-fetch-api-ckdj473z101cvzzs1dt0j89bz)
 - [An Introduction to JavaScript Callbacks ⚔](https://blog.nemotivity.xyz/an-introduction-to-javascript-callbacks-ckdcmybdx03qu66s1eh06a991)
-- [Object Destructuring in JavaScript for Beginners](https://blog.nemotivity.xyz/object-destructuring-in-javascript-for-beginners-ckd901fae00n5qus1ebko8j2r)
 <!-- HASHNODE:END -->
 
 <!--
