@@ -11,11 +11,11 @@
 
 ### Blog Posts
 <!-- HASHNODE:START -->
+- [The Three Dots of JavaScript: Rest and Spread Operator](https://blog.nemotivity.xyz/the-three-dots-of-javascript-rest-and-spread-operator-ckg4seylp05d2e9s1d87c0mci)
 - [A Beginner-Friendly Intro to JavaScript Event Propagation](https://blog.nemotivity.xyz/a-beginner-friendly-intro-to-javascript-event-propagation-ckfqfoiip02yq4ws12rwge2vs)
 - [An Introduction to Recursion using JavaScript](https://blog.nemotivity.xyz/an-introduction-to-recursion-using-javascript-ckfgx2nrq001xols17h787f87)
 - [Why You Should Take the #2Articles1Week Challenge](https://blog.nemotivity.xyz/why-you-should-take-the-2articles1week-challenge-ckecu05sv00ga5ts16gwugzuy)
 - [Let's talk about Math.ceil, Math.floor, and Math.round 🌿](https://blog.nemotivity.xyz/lets-talk-about-mathceil-mathfloor-and-mathround-cke5vz93f013r9ds14gri50db)
-- [Our Favourite VS Code Extensions! 🚀](https://blog.nemotivity.xyz/our-favourite-vs-code-extensions-ckdmrlewb05tfz2s17kojco11)
 <!-- HASHNODE:END -->
 
 <!--
