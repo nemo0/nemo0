@@ -7,7 +7,7 @@
 * 🌄 Mountains are favourite.
 
 [![Twitter Badge](https://img.shields.io/badge/-@Ami_Subha-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ami_Subha)](https://twitter.com/Ami_Subha) [![Instagram Badge](https://img.shields.io/badge/-nemotivity-E1306C?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/nemotivity/)](https://www.instagram.com/nemotivity/) [![Linkedin Badge](https://img.shields.io/badge/-subhachanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subha-chanda/)](https://www.linkedin.com/in/subha-chanda/) [![Dev.to Badge](https://img.shields.io/badge/-@nemo011-000000?style=flat-square&labelColor=000000&logo=Dev.to&link=https://dev.to/nemo011/)](https://dev.to/nemo011)
-[![Gmail Badge](https://img.shields.io/badge/-nemotivity@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nemotivity@gmail.com)](mailto:kraghav123@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-subhachanda88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:subhachanda88@gmail.com)](mailto:subhachanda88@gmail.com)
 
 ### Blog Posts
 <!-- HASHNODE:START -->
