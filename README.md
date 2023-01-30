@@ -1,10 +1,9 @@
 ### Hi! I am Subha 👋🏽
-🎨 I am a passionate learner who finds fun to code. I love to explore latest web technologies.
-* 👔 JavaScript is 💝. Backend is 🌟.
-* ⚡ Currently viewing Vue.
-* 👓 Next in list is to work more in UI. 😁
-* 👨🏽‍🏫 Love to teach childrens who don't know anything about Computers.
-* 🌄 Mountains are favourite.
+I'm a full-stack developer and technical writer with a passion for JavaScript. I specialize in Next.js, React, Nuxt, Node.js, MongoDB, and other cutting-edge technologies. My goal is to create high-performance and user-friendly applications that deliver an exceptional user experience.
+
+When I'm not coding, you can find me writing technical articles, creating educational content, or exploring new technologies.
+
+Let's connect and build something amazing together!
 
 [![Twitter Badge](https://img.shields.io/badge/-@Ami_Subha-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ami_Subha)](https://twitter.com/Ami_Subha) [![Instagram Badge](https://img.shields.io/badge/-nemotivity-E1306C?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/nemotivity/)](https://www.instagram.com/nemotivity/) [![Linkedin Badge](https://img.shields.io/badge/-subhachanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subha-chanda/)](https://www.linkedin.com/in/subha-chanda/) [![Dev.to Badge](https://img.shields.io/badge/-@nemo011-000000?style=flat-square&labelColor=000000&logo=Dev.to&link=https://dev.to/nemo011/)](https://dev.to/nemo011)
 [![Gmail Badge](https://img.shields.io/badge/-subhachanda88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:subhachanda88@gmail.com)](mailto:subhachanda88@gmail.com)
@@ -19,4 +18,4 @@
 <!-- HASHNODE:END -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nemo0&theme=merko)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nemo0&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Subha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nemo0&count_private=true)
